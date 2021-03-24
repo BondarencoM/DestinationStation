@@ -10,3 +10,7 @@ The client wants the team to create an application that deals with calculating a
 
 ## Project Goal
 The goal of this project is to predict possible delays in the arrival of trains so that Ordina employees can travel punctually and sustainably to their clients.
+
+## Technical Information
+Make sure to set up the venv wiht python 3.8 and also install all dependencies
+
