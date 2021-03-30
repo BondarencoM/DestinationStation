@@ -1,0 +1,4 @@
+outs:
+- md5: 7341783de494d57423f88b0fdcbfdefa
+  size: 13508124
+  path: de_bilt_weather_raw.txt

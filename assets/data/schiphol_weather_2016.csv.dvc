@@ -1,0 +1,4 @@
+outs:
+- md5: a011c474a92187e790ca58fe7493bd69
+  size: 849800
+  path: schiphol_weather_2016.csv
