@@ -1,0 +1,4 @@
+outs:
+- md5: ebf818c6cfa912cd34ae3439206a2025
+  size: 13508124
+  path: schiphol_weather_raw.txt
