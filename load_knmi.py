@@ -91,15 +91,15 @@ print()
 print(df_schiphol.head())
 
 
-# filter the out 2016
-df_bilt_2016 = df_bilt.loc[(df_bilt['Timestamp'] >= '2016-01-01') & (df_bilt['Timestamp'] <= '2016-12-07')]
-df_schiphol_2016 = df_schiphol.loc[(df_schiphol['Timestamp'] >= '2016-01-01') & (df_schiphol['Timestamp'] <= '2016-12-07')]
+# filter the out 2019
+df_bilt_2019 = df_bilt.loc[(df_bilt['Timestamp'] >= '2019-01-01') & (df_bilt['Timestamp'] <= '2019-12-31')]
+df_schiphol_2019 = df_schiphol.loc[(df_schiphol['Timestamp'] >= '2019-01-01') & (df_schiphol['Timestamp'] <= '2019-12-31')]
 
-print(df_bilt_2016.shape)
-print(df_schiphol_2016.shape)
+print(df_bilt_2019.shape)
+print(df_schiphol_2019.shape)
 
 # save dataset
-df_bilt_2016.to_csv('./assets/data/de_bilt_weather_2016.csv', index=False, mode='w')
-df_schiphol_2016.to_csv('./assets/data/schiphol_weather_2016.csv', index=False, mode='w')
+df_bilt_2019.to_csv('./assets/data/de_bilt_weather_2019.csv', index=False, mode='w')
+df_schiphol_2019.to_csv('./assets/data/schiphol_weather_2019.csv', index=False, mode='w')
 
 
