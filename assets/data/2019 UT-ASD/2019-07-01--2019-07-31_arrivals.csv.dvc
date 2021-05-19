@@ -1,0 +1,4 @@
+outs:
+- md5: 77315861cf75d1cbae8b237f4401cad8
+  size: 8621814
+  path: 2019-07-01--2019-07-31_arrivals.csv
