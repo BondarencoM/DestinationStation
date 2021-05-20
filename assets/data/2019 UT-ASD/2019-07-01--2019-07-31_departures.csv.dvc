@@ -1,0 +1,4 @@
+outs:
+- md5: df1a0ed850ea61296d5031cff28292dc
+  size: 12715747
+  path: 2019-07-01--2019-07-31_departures.csv

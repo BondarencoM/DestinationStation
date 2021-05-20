@@ -1,0 +1,4 @@
+outs:
+- md5: bf192bbf39b1595b7b0dd99e2e300e06
+  size: 800389
+  path: de_bilt_weather_2019.csv

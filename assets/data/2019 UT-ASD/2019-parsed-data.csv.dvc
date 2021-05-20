@@ -1,0 +1,4 @@
+outs:
+- md5: 21c08a37935e9bf6e7c1b944cc6b87b6
+  size: 1545128
+  path: 2019-parsed-data.csv
