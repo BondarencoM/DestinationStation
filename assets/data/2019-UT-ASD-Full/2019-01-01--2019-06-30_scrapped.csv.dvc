@@ -1,0 +1,4 @@
+outs:
+- md5: e9da2e160f1168358444a547da000b14
+  size: 7494469
+  path: 2019-01-01--2019-06-30_scrapped.csv
