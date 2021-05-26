@@ -1,0 +1,4 @@
+outs:
+- md5: 7a1b1b0077bc7e3fac0f0f95449707da
+  size: 1761870
+  path: disruptions-2019.csv
