@@ -1,0 +1,4 @@
+outs:
+- md5: aa4bf35cc89feb74cd9381bf3767508e
+  size: 54383
+  path: MLPRegressor.onnx
